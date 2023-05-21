@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319212271837",
+    "project_id": "you-are-the-hero-d4e20",
+    "storage_bucket": "you-are-the-hero-d4e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319212271837:android:dfd12524945f7803930334",
+        "android_client_info": {
+          "package_name": "com.example.appandroidyouarethehero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319212271837-emhnv94d7tq8hfge67bbtk0onmjsa2ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPGrUuCtU8QUTvZlb9BUt8Y4fg6ehQ90M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319212271837-emhnv94d7tq8hfge67bbtk0onmjsa2ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
